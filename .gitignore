@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────
+# Root .gitignore - the whole repo
+# ─────────────────────────────────────────────────────────────
+
+# Node
+node_modules/
+
+# Environment & secrets - NEVER commit these
+.env
+.env.*
+!.env.example
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.db
