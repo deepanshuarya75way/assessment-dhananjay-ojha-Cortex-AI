@@ -1,10 +1,10 @@
 # 🧠 Cortex AI
 
-> An intelligent AI-powered chat assistant — ask anything and get instant, context-aware answers.
+> An intelligent AI-powered chat assistant ask anything and get instant, context-aware answers.
 
 ## 📖 About the Project
 
-Cortex AI is a full-stack, Perplexity style conversational assistant built to deliver fast, context-aware answers through a clean and modern chat interface. It supports persistent chat history, theme switching, and shareable conversations — all wrapped in a fully containerized deployment setup using Docker.
+Cortex AI is a full-stack, Perplexity style conversational assistant built to deliver fast, context-aware answers through a clean and modern chat interface. It supports persistent chat history, theme switching, and shareable conversations all wrapped in a fully containerized deployment setup using Docker.
 
 This project was built to demonstrate practical skills in full-stack development, API integration with LLMs, and production-style deployment practices.
 
@@ -56,12 +56,6 @@ Cortex-AI/
 ├── Backend/      # API & server logic
 └── docker-compose.yml
 ```
-
-## 🔮 Roadmap
-
-- [ ] Voice input support
-- [ ] Multi-model selection
-- [ ] Mobile app version
 
 ## 🤝 Contributing
 
